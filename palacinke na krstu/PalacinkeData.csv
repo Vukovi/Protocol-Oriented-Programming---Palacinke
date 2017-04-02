@@ -1,0 +1,17 @@
+id,productName,vrstaId,meniId,pakovanjeId
+1,PalačinkaMalina,2,6,2
+2,PalačinkaPohovana,1,8,1
+3,PalačinkaVišnja,2,11,2
+4,PalačinkaBanana,2,1,2
+5,PalačinkaJagoda,2,3,2
+6,PalačinkaKaradjordjeva,1,4,1
+7,PalačinkaLešnik,2,5,2
+8,PalačinkaBiftek,1,2,1
+9,PalačinkaPršut,1,9,1
+10,PalačinkaPiletina,1,7,1
+11,PalačinkaLosos,1,10,1
+12,PalačinkaSladoled,2,12,2
+13,PalačinkaProtein,1,13,1
+14,PalačinkaKeks,2,14,1
+15,PalačinkaŠunka,1,15,2
+16,PalačinkaEurokrem,2,16,1
